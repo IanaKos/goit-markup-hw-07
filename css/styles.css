@@ -497,6 +497,7 @@ nav {
       url("../images/bg@2x.jpg");
   }
 }
+
 @media screen and (max-width: 767px) {
   .four-feautures:not(:last-child) {
     margin-bottom: 72px;
@@ -732,6 +733,7 @@ nav {
 .three-services {
   width: calc((100% - 48px) / 3);
 }
+
 @media screen and (min-width: 1158px) {
   .services-section {
     display: block;
