@@ -1051,6 +1051,7 @@ li:last-child {
 .button-send:focus {
   background-color: var(--ocean);
 }
+
 @media screen and (max-width: 427px) {
   .modal-title {
     color: #2e2f42;
@@ -1061,5 +1062,3 @@ li:last-child {
     text-align: center;
   }
 }
-
-/*  */
