@@ -349,13 +349,13 @@ li:last-child {
     font-size: 20px;
     line-height: 1.2;
     color: #434455;
-    margin-bottom: 8px;
   }
   .mobile-phone-link {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     color: var(--iris);
+    margin-bottom: 8px;
   }
 
   .mobile-menu-container .mobile-socials-list {
