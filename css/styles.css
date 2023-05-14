@@ -216,7 +216,8 @@ li:last-child {
 .contact-item {
   line-height: 0;
 }
-@media screen and (max-width: 768px) {
+
+@media screen and (max-width: 767px) {
   .header {
     padding-top: 24px;
     padding-bottom: 24px;
@@ -256,7 +257,7 @@ li:last-child {
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1157px) {
-  .contacts-item:first-child {
+  .contact-item:first-child {
     margin-bottom: 12px;
   }
   .contacts-link {
